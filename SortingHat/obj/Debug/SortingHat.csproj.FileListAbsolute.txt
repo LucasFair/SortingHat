@@ -1,0 +1,7 @@
+C:\Users\Fair\Documents\Hovedforløb\H1\OOP\SortingHat\bin\Debug\SortingHat.exe.config
+C:\Users\Fair\Documents\Hovedforløb\H1\OOP\SortingHat\bin\Debug\SortingHat.exe
+C:\Users\Fair\Documents\Hovedforløb\H1\OOP\SortingHat\bin\Debug\SortingHat.pdb
+C:\Users\Fair\Documents\Hovedforløb\H1\OOP\SortingHat\obj\Debug\SortingHat.csproj.AssemblyReference.cache
+C:\Users\Fair\Documents\Hovedforløb\H1\OOP\SortingHat\obj\Debug\SortingHat.csproj.CoreCompileInputs.cache
+C:\Users\Fair\Documents\Hovedforløb\H1\OOP\SortingHat\obj\Debug\SortingHat.exe
+C:\Users\Fair\Documents\Hovedforløb\H1\OOP\SortingHat\obj\Debug\SortingHat.pdb
